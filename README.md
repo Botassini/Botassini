@@ -18,16 +18,13 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   </a>
   <a href="https://laravel-livewire.com" target="_blank" rel="noreferrer">
     <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/AJAX_logo_by_gengns.svg" alt="AJAX" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
