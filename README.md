@@ -14,7 +14,9 @@ Sou um desenvolvedor de software com formação em Engenharia de Software pela [
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="left">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ 
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
 </p>
 
 ## Contato
