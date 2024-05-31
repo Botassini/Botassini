@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="80" />
   </a>
   <a href="https://laravel-livewire.com" target="_blank" rel="noreferrer">
     <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" width="40" height="40"/>
