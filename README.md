@@ -37,4 +37,4 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ## Contato
 
 - Email: samuelbotassini2003@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/samuel-botassini/)
+- LinkedIn: https://www.linkedin.com/in/samuel-botassini/
