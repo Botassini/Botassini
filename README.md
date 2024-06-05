@@ -4,10 +4,6 @@
 
 Sou um desenvolvedor de software em formação.
 
-## Formação
-
-- **Engenharia de Software** 
-
 ## Tecnologias
 
 Aqui estão algumas das tecnologias com as quais trabalho:
