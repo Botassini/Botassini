@@ -22,10 +22,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   </a>
 
   <a>
-    <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" width="40" height="40"/>
-  </a>
-
-  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
