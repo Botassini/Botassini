@@ -13,7 +13,10 @@ Sou um desenvolvedor de software em formação.
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="left">
-  
+  <a href="https://www.php.net" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <br>
   <a href="https://laravel.com" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   </a>
