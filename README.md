@@ -1,22 +1,19 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, me chamo Samuel Botassini! 👋
 
 ## Sobre Mim
 
-Sou um desenvolvedor de software com formação em Engenharia de Software pela [Sua Universidade]. Tenho experiência em várias tecnologias e frameworks que me permitem criar soluções robustas e eficientes.
+Sou um desenvolvedor de software em formação.
 
 ## Formação
 
-- **Engenharia de Software** - [Sua Universidade]
-  - Período: [Ano de início] - [Ano de conclusão]
+- **Engenharia de Software** 
 
 ## Tecnologias
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="left">
-  <a href="https://www.php.net" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
+  
   <a href="https://laravel.com" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   </a>
