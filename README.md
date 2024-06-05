@@ -36,6 +36,5 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## Contato
 
-- Email: [seu_email@example.com]
-- LinkedIn: [Seu Perfil LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin/)
-- GitHub: [Seu Perfil GitHub](https://github.com/seu_usuario)
+- Email: samuelbotassini2003@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/samuel-botassini/)
