@@ -13,27 +13,27 @@ Sou um desenvolvedor de software em formação.
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 <p align="left" style="display: flex;">
-  <a href="https://www.php.net" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
 
-  <a href="https://laravel.com" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   </a>
 
-  <a href="https://laravel-livewire.com" rel="noreferrer">
+  <a>
     <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" width="40" height="40"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
-  <a href="https://www.w3.org/html/" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
 
-  <a href="https://www.w3schools.com/css/" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
