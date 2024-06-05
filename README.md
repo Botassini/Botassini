@@ -20,15 +20,19 @@ Aqui estão algumas das tecnologias com as quais trabalho:
   <a href="https://laravel.com" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   </a>
+  <br>
   <a href="https://laravel-livewire.com" rel="noreferrer">
     <img src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://www.w3.org/html/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://www.w3schools.com/css/" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
